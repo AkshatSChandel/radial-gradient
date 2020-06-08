@@ -1,0 +1,19 @@
+body {
+background-image: url("night.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.box {
+width: 650px;
+height: 300px;
+margin: 100px auto 0px auto;
+border: 08px solid #fff;
+background-image: repeating-radial-gradient(red,lime 20%,blue 30%)
+}
+h1,p {
+	margin: 100px 100px 0px 100px;
+	float: left;
+	font-family: tahoma;
+}
+h1 {font-size: 25px;}
+p {font-size: 15px; margin-top: 25px;}
